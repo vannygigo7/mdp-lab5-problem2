@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab5-problem2</string>
+    <string name="product_image">Product Image</string>
+    <string name="home">Home</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="view_cart">View Cart</string>
+    <string name="add">Add</string>
+</resources>
